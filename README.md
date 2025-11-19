@@ -1,7 +1,7 @@
 # 
 Application-Analyse-de-Sentimentproject/
 │
-├── backend/
+├── sentiment-api/
 │   ├── app/
 │   │   ├── main.py
 │   │   ├── sentiment.py
@@ -17,7 +17,7 @@ Application-Analyse-de-Sentimentproject/
 │   └── Dockerfile
 │
 ├── frontend/
-│   ├── app/
+│   ├── pages/
 │   │   ├── login/
 │   │   │   └── page.tsx
 │   │   ├── sentiment/
