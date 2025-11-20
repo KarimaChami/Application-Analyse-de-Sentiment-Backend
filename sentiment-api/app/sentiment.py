@@ -1,5 +1,5 @@
 import requests
-from app.config import settings
+from app.database.config import settings
 
 API_URL = "https://router.huggingface.co/hf-inference/models/nlptown/bert-base-multilingual-uncased-sentiment"
 

@@ -6,3 +6,7 @@ class SentimentRequest(BaseModel):
 class SentimentResult(BaseModel):
     label: str
     score: float
+
+class LoginRequest(BaseModel):
+    username: str
+    password: str
