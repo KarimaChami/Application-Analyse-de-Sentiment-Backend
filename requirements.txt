@@ -11,6 +11,5 @@ passlib[bcrypt]
 alembic 
 pytest 
 pytest-asyncio
-
 requests
 PyJWT
